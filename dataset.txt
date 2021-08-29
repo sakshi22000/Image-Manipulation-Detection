@@ -1,0 +1,14 @@
+About the Dataset
+Name: Image Manipulation Dataset
+Contents:
+• Unmodified/original images
+• Unmodified/original images with JPEG compression
+• One-to-one splices
+• Splices with added Gaussian noise
+• Splices with added JPEG artifacts
+• Rotated copies
+• Scaled copies
+• Combined effects
+• Copies that were pasted multiple times
+
+Source: www5.cs.fau.de/research/data/image-manipulation/
